@@ -17,3 +17,5 @@ Quand vous jouez contre l'ordinateur il suffit de cliquer n'importe où dans la 
 L'algorithme est fait pour contrer le joueur de manière verticale ou horizontale. 
 
 Pour l'instant la programmation est encore en cours de développement sur mon temps libre pour rendre cette IA plus performante, pour lui permettre de jouer toute seule sans avoir besoin de cliquer mais surtout de pouvoir contrer par une diagonale. 
+
+![Puissance 4](https://github.com/arttit/Puissance-4/blob/master/wins.png)
